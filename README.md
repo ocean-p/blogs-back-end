@@ -1,4 +1,4 @@
-# blogs-backEnd
+# blogs-back-end
 This is source code about Restful API on back-end server for blogs website.
 
 ### Technologies on project
